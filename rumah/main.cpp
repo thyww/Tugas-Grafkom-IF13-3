@@ -2,7 +2,7 @@
 #include <GL/gl.h>
 #include <GL/glut.h>
 #include <math.h>
-
+//ghhhgghjj
 
 float v=0.0f, e=-1.0f;
 float a=0.0f, b=5.0f;
@@ -240,7 +240,7 @@ int main(int argc, char **argv)
 {
     glutInit(&argc, argv);
     glutInitDisplayMode (GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH);
-    glutGameModeString( "1024×768:32@75" ); 
+    glutGameModeString( "1024ï¿½768:32@75" ); 
     glutEnterGameMode(); 
     glutDisplayFunc(display);
     glutReshapeFunc(kubus);
